@@ -1,0 +1,20 @@
+date
+Ape!
+['/autonomo_torrent/run.py', '-l', '6882', '-o', '/torrents/rand64k/', '-e', 'ns_Explore_And_Refine', '-m', '{APE:MODELWORKING}', '/torrents/rand64k/rand64k.torrent']
+Exploration Stage
+Generating traces
+date
+Ape!
+['/autonomo_torrent/run.py', '-l', '6882', '-o', '/torrents/rand64k/', '-e', 'ns_Explore_And_Refine', '-m', '{APE:MODELWORKING}', '/torrents/rand64k/rand64k.torrent']
+Exploration Stage
+Generating traces
+date
+Ape!
+['/autonomo_torrent/run.py', '-l', '6882', '-o', '/torrents/rand64k/', '-e', 'ns_Explore_And_Refine', '-m', '{APE:MODELWORKING}', '/torrents/rand64k/rand64k.torrent']
+Exploration Stage
+Generating traces
+date
+Ape!
+['/autonomo_torrent/run.py', '-l', '6882', '-o', '/torrents/rand64k/', '-e', 'ns_Explore_And_Refine', '-m', '{APE:MODELWORKING}', '/torrents/rand64k/rand64k.torrent']
+Exploration Stage
+Generating traces

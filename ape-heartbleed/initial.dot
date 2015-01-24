@@ -1,0 +1,5 @@
+digraph {
+  0 [label="INITIAL",shape=box];
+  1 [label="TERMINAL",shape=diamond];
+0->1 [label="1.00", weight="1.00",];
+}

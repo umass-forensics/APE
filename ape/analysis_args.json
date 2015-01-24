@@ -1,0 +1,21 @@
+[
+  {
+    "method":"find_paths_from_partial",
+    "model":"5.dot",
+    "partial_path":[
+      "INITIAL",
+      "+new_client"],
+    "skip_events":[
+      "-hello"]
+  },
+  {
+    "method":"find_paths_from_partial",
+    "model":"5.dot",
+    "partial_path":[
+      "INITIAL",
+      "+new_client",
+      "+new_client"],
+    "skip_events":[
+        "NONE!!@#!"]
+  }
+]

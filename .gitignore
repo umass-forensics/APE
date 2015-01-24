@@ -1,0 +1,58 @@
+#Temporary
+monotorrent
+*.box
+synoptic/
+
+synoptic-out
+
+.vagrant
+
+# Pycharm
+.idea
+
+# Misc
+*.iso
+*.swp
+*.py[co]
+
+# Traces
+*.pcap
+
+# Latex
+*.aux
+*.log
+*.gz
+*.bbl
+*.blg
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+
+#Mac files
+.DS_store
+
+#Vim Plugin files
+*.ropeproject
